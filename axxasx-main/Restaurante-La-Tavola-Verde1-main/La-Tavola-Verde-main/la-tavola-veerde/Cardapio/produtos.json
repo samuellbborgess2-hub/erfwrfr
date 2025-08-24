@@ -1,0 +1,59 @@
+
+[
+    {
+        "id": 0,
+        "titulo": "Bruschetta Tradicional",
+        "descricao": "Pão italiano, tomate, manjericão, alho, azeite de oliva, sal, pimenta-do-reino",
+        "imagem": "../images//1.jpg",
+        "preco": "25,00"
+    },
+    {
+        "id": 1,
+        "titulo": "Risoto de Cogumelos",
+        "descricao": "Arroz arbório, cogumelos frescos, cebola, alho, vinho branco, caldo de legumes, manteiga, parmesão, salsinha",
+        "imagem": "../images/Risoto-de-Cogumelos.webp",
+        "preco": "48,00"
+    },
+    {
+        "id": 2,
+        "titulo": "Lasanha à Bolonhesa",
+        "descricao": "Spaghetti, ovos, queijo pecorino, pancetta, pimenta-do-reino, azeite de oliva",
+        "imagem": "../images/lasanha.jpg",
+        "preco": "55,00"
+    },
+    {
+        "id": 3,
+        "titulo": "Spaghetti alla Carbonara",
+        "descricao": "Massa de pizza, molho de tomate, mussarela de búfala, manjericão, azeite extravirgem",
+        "imagem": "../images/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
+        "preco": "45,00"
+    },
+    {
+        "id": 4,
+        "titulo": "Pizza Margherita",
+        "descricao": "Massa de pizza, molho de tomate, mussarela de búfala, manjericão, azeite extravirgem",
+        "imagem": "../images/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+        "preco": "40,00"
+    },
+    {
+        "id": 5,
+        "titulo": "Polpetone ao Molho de Tomate",
+        "descricao": "Carne moída, pão umedecido, alho, cebola, parmesão, ovo, muçarela (recheio), molho de tomate, ervas",
+        "imagem": "../images//polpetone-recheado-a-parmegiana.jpg",
+        "preco": "50,00"
+    },
+    {
+        "id": 6,
+        "titulo": "Tiramisu",
+        "descricao": "Biscoito savoiardi, café, mascarpone, ovos, açúcar, cacau em pó, licor de café (opcional)",
+        "imagem": "../images/tiramishu.jpg",
+        "preco": "28,00"
+    },
+    {
+        "id": 7,
+        "titulo": "Gelato de Pistache",
+        "descricao": "Leite, creme de leite, açúcar, pasta de pistache, gema de ovo (opcional)",
+        "imagem": "../images/pistache.jpg",
+        "preco": "22,00"
+    }
+]
